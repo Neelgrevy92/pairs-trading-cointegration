@@ -57,6 +57,11 @@ This project includes:
 > Modest profitability with drawdowns during crises. This is illustrative; the strategy is **not fully risk-neutral**.
 > another strategy will be added later on with a focus on risk neutrality
 
+
+![Backtest](figures/backtest.png)  
+![pnl_by_pair](figures/pnl_by_pair.png)
+
+
 ---
 
 ## Next Steps
