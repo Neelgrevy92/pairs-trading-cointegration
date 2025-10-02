@@ -1,6 +1,5 @@
 # Pairs Trading & Cointegration Screener
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Neelgrevy92/pairs-trading-cointegrationblob/main/Pairs_Trading_Cointegration.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Neelgrevy92/pairs-trading-cointegration/blob/main/Pairs_Trading_Cointegration.ipynb)
 
 
 This repository explores a **pairs trading strategy** based on cointegration between US equities.  
